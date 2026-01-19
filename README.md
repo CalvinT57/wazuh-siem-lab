@@ -1,4 +1,3 @@
-# wazuh-siem-lab
 # Wazuh SIEM Deployment and Endpoint Monitoring (Ubuntu + Windows 11)
 
 ## Overview
